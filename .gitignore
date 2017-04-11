@@ -1,0 +1,5 @@
+.idea/
+images_sample/
+*_old.py
+*.csv
+*.json
